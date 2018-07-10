@@ -4,12 +4,15 @@ Glassdoor(is ilanlari sektordeki alanlar ve istenilen nitelikler)
 Agile
 
 
-******************
+
 Devops
+
 Continue delivery/deployment
+
 Microservices / monolith
+
 Container
-******************
+
 Software Pipeline
 
 Conflunce
