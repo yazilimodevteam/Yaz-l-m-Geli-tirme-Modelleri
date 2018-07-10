@@ -6,7 +6,7 @@ Agile
 
 ******************
 Devops
-Continue delivery/deployment
+Continuous delivery/deployment
 Microservices / monolith
 Container
 ******************
