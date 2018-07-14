@@ -29,9 +29,6 @@ A/B deployment
 Cloud native
 The twelve-factor app
 
-Yalçın Tosun
-yalcin@snapbytes.com
-
 Devops tools ekosistem*
 
 
